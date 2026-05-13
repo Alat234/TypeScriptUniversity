@@ -1,0 +1,45 @@
+{
+  "category": "Outdoor Adventure",
+  "items": [
+    {
+      "id": 5,
+      "name": "Summit Explorer Tent",
+      "shortname": "tent",
+      "description": "3-person all-weather tent for mountain expeditions.",
+      "price": 350,
+      "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?q=80&w=400&h=400&auto=format&fit=crop"
+    },
+    {
+      "id": 6,
+      "name": "Pathfinder Backpack",
+      "shortname": "backpack",
+      "description": "65L capacity with ergonomic support for long hikes.",
+      "price": 180,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=400&h=400&auto=format&fit=crop"
+    },
+    {
+      "id": 13,
+      "name": "TrailBlazer Boots",
+      "shortname": "boots",
+      "description": "Waterproof leather hiking boots with Vibram outsoles.",
+      "price": 160,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUELi4aYWyMXUooqXc3p5YBTfiysqLWOWoVQ&s"
+    },
+    {
+      "id": 14,
+      "name": "SolarPower Lantern",
+      "shortname": "lantern",
+      "description": "USB-rechargeable and solar-powered camping lantern.",
+      "price": 40,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixOWZQ7xDYTDgqev1Vm9y5DqvWSmm8DHQHw&s"
+    },
+    {
+      "id": 15,
+      "name": "Arctic Down Sleeping Bag",
+      "shortname": "sleeping-bag",
+      "description": "Rated for -15°C to keep you warm in extreme conditions.",
+      "price": 220,
+      "image": "https://images.unsplash.com/photo-1519098901909-b1553a1190af?q=80&w=400&h=400&auto=format&fit=crop"
+    }
+  ]
+}
